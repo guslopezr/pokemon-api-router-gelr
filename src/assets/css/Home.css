@@ -1,0 +1,20 @@
+.form-cont-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-cont-img {
+    width: 50vh;
+    height: 50vh;
+    margin: 2vh 0 0 0;
+}
+
+.form-img {
+    width: 100%;
+    height: 100%;
+}
+
+.active:link {
+    color: white;
+}
